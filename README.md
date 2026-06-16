@@ -19,6 +19,52 @@ JivSahayak helps and educates users across six practical avenues structured into
 
 ---
 
+## 📸 Interactive Demo & Visual Navigation Guide
+
+Explore the JivSahayak interface design, custom accessibility markers, and gamified workflows below:
+
+### 1. The Main Learning Hub & Interactive Progress Tracker
+This dashboard acts as the entry pad where users select their language (Hindi, Bengali, Tamil, Telugu, and English) and trace their current educational session completion.
+
+<div align="center">
+  <img src="./src/assets/images/dashboard_mockup_1781639368505.jpg" width="80%" alt="JivSahayak Dashboard and Progress Tracker" style="border: 3px solid #1A1A1A; border-radius: 16px; margin: 15px 0;" referrerPolicy="no-referrer" />
+</div>
+
+* **Interactive Highlights:**
+  * **Progress Donut Chart:** Built with **Recharts**, this gauge dynamically renders the ratio of completed courses to remaining ones.
+  * **Unified Voice Synthenator:** Toggle audio feedback icon on the top right-hand side to play narrator instructions. 
+  * **Language Selector:** Highly visible Indian subcontinent flags combined with clear native language text (`हिंदी`, `বাংলা`, `தமிழ்`, `తెలుగు`) to avoid confusion on mobile scales.
+
+---
+
+### 2. Lakshmi's Vegetable Shop Savings Simulator
+An educational micro-finance program designed to build arithmetic confidence and daily-save logic while shielding households from loan-shark debt traps.
+
+<div align="center">
+  <img src="./src/assets/images/savings_sim_mockup_1781639385837.jpg" width="80%" alt="Savings Simulator Vegetable Shop" style="border: 3px solid #1A1A1A; border-radius: 16px; margin: 15px 0;" referrerPolicy="no-referrer" />
+</div>
+
+* **Navigation Guide:**
+  * **Step A:** Listen to Lakshmi's oral client briefs requesting vegetable purchase bundles.
+  * **Step B:** Touch items inside the fresh vegetable cart to fulfill specified requests.
+  * **Step C:** Save your surplus wage gains into the modular savings glass jars to trigger a completed course milestone.
+
+---
+
+### 3. "Healthy Plate" Dietary Nutrition Balance Planner
+Designed to solve protein deficiencies and lack of nutritional knowledge by showing users localized vegetables, grains, and proteins.
+
+<div align="center">
+  <img src="./src/assets/images/healthy_plate_mockup_1781639403481.jpg" width="80%" alt="Healthy Plate Planner" style="border: 3px solid #1A1A1A; border-radius: 16px; margin: 15px 0;" referrerPolicy="no-referrer" />
+</div>
+
+* **Navigation Guide:**
+  * **Step A:** Explore items from the localized food pool containing vegetables, staples, and proteins.
+  * **Step B:** Tap elements to add them into the circular main plate (traditional thali).
+  * **Step C:** Ensure you maintain standard dietary balancing criteria (adding vegetables, proteins, and carbohydrates in stable balance) to complete the dietary quest.
+
+---
+
 ## 🚀 Key Features Built for Accessibility
 
 * **🔊 Audio-First Guidance:** Built with integrated Text-to-Speech (TTS) narrating every screen, button, and simulation step.
