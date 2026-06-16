@@ -1,0 +1,6 @@
+{
+  "name": "JivSahayak",
+  "description": "Audio-first life education and livelihood enablement platform delivering interactive story-driven simulations and multilingual literacy guidelines across India.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
